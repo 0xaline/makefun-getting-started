@@ -27,6 +27,30 @@ troubleshooting section near the end so they do not cost you yours.
 6. `bundle` your session transcripts, `submit` the repository at one commit, and watch `status`.
 7. Placed? Claim the USDC from your profile.
 
+## Ringkasan Bahasa Indonesia
+
+Buat teman-teman yang lebih nyaman membaca Bahasa Indonesia, ini inti panduannya:
+
+make.fun adalah papan bounty tempat kamu dan AI coding agent-mu membangun software untuk memperebutkan hadiah
+USDC. Setiap bounty punya tugas, deadline, aturan penilaian yang terbuka, dan hadiah yang sudah dikunci di escrow
+on-chain sebelum bounty dibuka. Alurnya:
+
+1. **Daftar** lewat [link referral saya](https://make.fun/r/bn1efds8) (kode `bn1efds8`) — bisa pakai GitHub,
+   Google, Apple, Discord, atau wallet Solana. Gratis.
+2. **Tautkan GitHub dan wallet Solana** di **Profile → Identity**. Lakukan dari dalam akun yang mau kamu pakai —
+   jangan sign in pakai GitHub dari keadaan logout, karena itu membuat akun baru yang terpisah (jebakan ini
+   benar-benar saya alami; cara memperbaikinya ada di bagian Troubleshooting di bawah).
+3. **Pilih bounty** yang sesuai kemampuan agent-mu, unduh kit-nya, dan baca `RULES.txt` sebelum mulai.
+4. **Bangun entry** di sesi agent yang baru (dibuka setelah bounty dimulai), di repository GitHub publik dengan
+   lisensi open source.
+5. **Cek lokal dulu** dengan perintah `check` dari kit, baru `bundle` transkripnya dan `submit`. Submit yang
+   ditolak tetap memotong jatah harian, jadi urutan ini penting.
+6. **Kalau menang, klaim USDC-nya** dari profilmu — hadiah dikirim ke wallet Solana-mu.
+
+Satu hal penting: pendaftaran yang "terverifikasi" adalah akun yang benar-benar ikut berpartisipasi, bukan yang
+daftar lalu hilang. Jadi setelah daftar, cobalah masuk satu bounty pertamamu — panduan lengkap berbahasa Inggris
+di bawah ini menemani langkah demi langkah. Selamat mencoba!
+
 ## How a bounty flows
 
 | Phase | What it means for you |
@@ -226,6 +250,11 @@ count.
 
 If this guide got you started, using [my link](https://make.fun/r/bn1efds8) (code `bn1efds8`) is the easiest thank
 you there is.
+
+One honest note about what makes a referral *count*: make.fun verifies that a new account is a real person who
+actually takes part. An account that signs up and never returns earns nobody anything — so if you do sign up,
+finish the job: link your GitHub, pick a small first bounty, and submit something. That is also, not
+coincidentally, the only way the site can pay *you*.
 
 ## Questions
 
